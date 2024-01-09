@@ -1,0 +1,128 @@
+body {
+    background-color: #D9EDBF;
+}
+
+#fond {
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+
+}
+
+#blur {
+    background-color: #d9edbf85;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 150%;
+    backdrop-filter: blur(10px);
+}
+
+button {
+
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 26px;
+    width: 212.827px;
+    height: 47.921px;
+    padding: 8.461px 0px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 4.228px;
+    border: 1px solid #000;
+    background: #FDFFAB;
+    box-shadow: 0px 5.638px 5.638px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+#divStart {
+
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 28px;
+    display: inline-block;
+    position: absolute;
+    text-align: center;
+    left: 32%;
+    margin-top: 20%;
+}
+
+#pamplemouss {
+    position: absolute;
+    width: 279px;
+    scale: 89%;
+    left: 5%;
+    top: 10%;
+}
+
+#bannane {
+    position: absolute;
+    width: 279px;
+    scale: 89%;
+    left: 29%;
+    top: 8%;
+
+}
+
+#cherry {
+    position: absolute;
+    width: 279px;
+    scale: 86%;
+    right: 29%;
+    top: 5%;
+}
+
+#kiwi {
+    position: absolute;
+    width: 279px;
+    scale: 101%;
+    right: 5%;
+    top: 10%;
+}
+
+#framboise {
+    position: absolute;
+    width: 279px;
+    left: 5%;
+    top: 43%;
+    scale: 85%;
+
+}
+
+#pear {
+    position: absolute;
+    width: 279px;
+    right: 5%;
+    top: 30%;
+    scale: 70%;
+}
+
+#orange {
+    position: absolute;
+    width: 279px;
+    left: 5%;
+    top: 85%;
+}
+
+#mangue {
+    position: absolute;
+    width: 279px;
+    left: 29%;
+    top: 85%;
+}
+
+#grenade {
+    position: absolute;
+    width: 279px;
+    right: 29%;
+    top: 85%;
+}
+
+#apple {
+    position: absolute;
+    width: 279px;
+    scale: 120%;
+    right: 5%;
+    top: 90%;
+}
